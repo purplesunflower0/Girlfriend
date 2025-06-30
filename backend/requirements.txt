@@ -1,0 +1,4 @@
+fastapi
+uvicord
+python-dotevn
+httpx
